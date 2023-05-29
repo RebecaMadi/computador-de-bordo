@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668377372 source:c:\users\zaira\desktop\aedii\computador de bordo\computador_de_bordo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
